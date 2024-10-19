@@ -14,7 +14,7 @@ My most recent project is [Quiz Qrafter](https://quizqrafter.onrender.com), an A
 
 ---
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,py,ts,java,ruby,dart,rust,nodejs,express,nestjs,rails,fastapi,spring,graphql,react,angular,astro,postgres,redis,prisma,sklearn,flutter,firebase,gcp)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,py,ts,java,ruby,dart,rust,nodejs,express,nestjs,rails,fastapi,spring,graphql,react,angular,astro,postgres,redis,prisma,sklearn,flutter,firebase,gcp,laravel)](https://skillicons.dev)
 
 
 <!--
