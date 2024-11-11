@@ -7,9 +7,9 @@ My passion currently lies in web development. I love learning new frameworks and
 My most recent project is [Quiz Qrafter](https://quizqrafter.onrender.com), an AI-driven quiz generator that helps students study for their exams.
 
 ### More about me
-- 🔭 I’m currently working on an implementation of Cooperative Particle Swarm Optimization
-- 🌱 I’m currently learning [Particle Swarm Optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization) and [Rust](https://www.rust-lang.org/)
-- 📚 I’m currently reading "Communicating Sequential Processes" by Tony Hoare
+- 🔭 I’m currently experimenting with various crossover operators for [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm) for the [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
+- 🌱 I’m currently learning [Artificial Neural Networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+- 📚 I’m currently reading "101 Things I Learned in Architecture School" by Matthew Frederick
 - ⚡ Fun fact: I like to read 📚 and I play 🎺 🎹
 
 ---
