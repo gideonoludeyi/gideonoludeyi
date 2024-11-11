@@ -4,8 +4,6 @@ I’ve always been fascinated with programming to bring my ideas to life.
 
 My passion currently lies in web development. I love learning new frameworks and technologies, and using them to build web applications.
 
-My most recent project is [Quiz Qrafter](https://quizqrafter.onrender.com), an AI-driven quiz generator that helps students study for their exams.
-
 ### More about me
 - 🔭 I’m currently experimenting with various crossover operators for [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm) for the [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
 - 🌱 I’m currently learning [Artificial Neural Networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
