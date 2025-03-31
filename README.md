@@ -5,9 +5,9 @@ I’ve always been fascinated with programming to bring my ideas to life.
 My passion currently lies in web development. I love learning new frameworks and technologies, and using them to build web applications.
 
 ### More about me
-- 🔭 I’m currently experimenting with various crossover operators for [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm) for the [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
-- 🌱 I’m currently learning [Artificial Neural Networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
-- 📚 I’m currently reading "101 Things I Learned in Architecture School" by Matthew Frederick
+- 🔭 I’m currently experimenting with various crossover operators for [Memetic Algorithms](https://en.wikipedia.org/wiki/Memetic_algorithm) for the [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
+- 🌱 I’m currently learning [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+- 📚 I’m currently reading "Getting Real" by Jason Fried & David Heinemeier Hansson
 - ⚡ Fun fact: I like to read 📚 and I play 🎺 🎹
 
 ---
