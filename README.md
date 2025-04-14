@@ -8,6 +8,7 @@ My passion currently lies in web development. I love learning new frameworks and
 - 🔭 I’m currently experimenting with various crossover operators for [Memetic Algorithms](https://en.wikipedia.org/wiki/Memetic_algorithm) for the [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
 - 🌱 I’m currently learning [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - 📚 I’m currently reading "Getting Real" by Jason Fried & David Heinemeier Hansson
+- 📖 I'm pursuing my Masters @ [Brock University](brocku.ca)
 - ⚡ Fun fact: I like to read 📚 and I play 🎺 🎹
 
 ---
