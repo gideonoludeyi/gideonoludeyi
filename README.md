@@ -1,14 +1,14 @@
 Hi 👋, I’m Gideon.
 
-I’ve always been fascinated with programming to bring my ideas to life.
+I have always been fascinated with programming to bring my ideas to life.
 
 My passion currently lies in web development. I love learning new frameworks and technologies, and using them to build web applications.
 
 ### More about me
-- 🔭 I’m currently experimenting with various crossover operators for [Memetic Algorithms](https://en.wikipedia.org/wiki/Memetic_algorithm) for the [Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
-- 🌱 I’m currently learning [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
-- 📚 I’m currently reading "Getting Real" by Jason Fried & David Heinemeier Hansson
-- 📖 I'm pursuing my Masters @ [Brock University](https://brocku.ca)
+- 🔭 I’m currently experimenting with improving [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) performance using [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
+- 🌱 I’m currently learning [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- 📚 I’m currently reading "[Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)" by Richard S. Sutton and Andrew G. Barto
+- 📖 I'm pursuing my Masters in AI @ [Brock University](https://brocku.ca)
 - ⚡ Fun fact: I like to read 📚 and I play 🎺 🎹
 
 ---
